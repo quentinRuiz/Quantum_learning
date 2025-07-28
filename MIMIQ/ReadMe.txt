@@ -5,7 +5,7 @@ This folder containt the script which correspond to the datasheet instructions o
 - Noisy simulation on MIMIQ
 - Symbolic Operations in MIMIQ
 - Statistical Operations
-- Simulatnig Circuits
-_ Special Topis
+- Simulating Circuits
+- Special Topis
 - Z-Register Operations
 - Hamiltonian and Time Evolution
