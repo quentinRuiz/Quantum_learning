@@ -1,4 +1,4 @@
-This folder containt the script which correspond to the datasheet instructions of MIMIQ for how use it. It contains register for :
+This folder containt the script which correspond to the datasheet instructions of MIMIQ for how use it. It contains the notebook for the following chapter :
 - Circuits
 - Unitary Gates
 - Non Unitary Operations
