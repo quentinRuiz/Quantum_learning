@@ -6,6 +6,5 @@ This folder containt the script which correspond to the datasheet instructions o
 - Symbolic Operations in MIMIQ
 - Statistical Operations
 - Simulating Circuits
-- Special Topis
 - Z-Register Operations
 - Hamiltonian and Time Evolution
