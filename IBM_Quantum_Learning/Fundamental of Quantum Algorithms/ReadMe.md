@@ -15,7 +15,7 @@ Summary:
     3. Classical computation on quantum computers
 
 
-3. Phase Estiamtion and Factorization
+## 3. Phase Estiamtion and Factorization
     1. The phase estimation problem
     2. The phase estimation procedure
         1. Low precision warm up
@@ -27,7 +27,7 @@ Summary:
     4. Implementation on Qiskit
   
 
-4. Grover Algorithm
+## 4. Grover Algorithm
     1. Unstructured search
     2. Grover’s Algorithm
         1. Algorithm description
