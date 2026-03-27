@@ -22,7 +22,10 @@
       3. Non orthogoanl states cannot be perfectly discriminated
    4. Implementation on Qiskit
 4. Entanglements in Action
-   - Notions : 
+   1. Quantum Teleportation
+   2. Superdense Coding
+   3. The CHSH game
+   4. Implementation on Qiskit 
 
 
 
