@@ -12,4 +12,13 @@ Summary
     2. Measuring computational cost
     3. Classical computation on quantum computers
 5. Phase Estiamtion and Factorization
-6. Grover Algorithm
+    1. The phase estimation problem
+    2. The phase estimation procedure
+    3. Low precision warm up
+    4. Quantum Fourier Transform
+    5. General procedure
+    6. Integer factorization by phase estimation
+    7. Order finding by phase estimation
+    8. Integer factorization by order finding
+    9. Implementation on Qiskit
+7. Grover Algorithm
