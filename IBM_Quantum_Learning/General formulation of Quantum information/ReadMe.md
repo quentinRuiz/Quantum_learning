@@ -14,6 +14,17 @@ Summary:
       1. Product states, correlated states, and entanglement
       2. Reduced states and the partial trace
 
-##2. Quantum Channels
+## 2. Quantum Channels
+   1. Basics of channels
+      1. Definition
+      2. Unitary channels
+      3. Convex combinations
+      4. Examples of qubit channels
+   2. Channel representations
+      1. Stinespring
+      2. Kraus
+      3. Choi
+   3. Equivalence of representations
+   
 
 ##3. General Measurements
