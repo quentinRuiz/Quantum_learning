@@ -8,5 +8,8 @@ Summary
     4. Simon’s Algorihm
     5. Implementation on Qiskit
 3. Quantum Algorithms Foundations
-4. Phase Estiamtion and Factorization
-5. Grover Algorithm
+    1. Two examples: integer factorizations and computing GCDs
+    2. Measuring computational cost
+    3. Classical computation on quantum computers
+5. Phase Estiamtion and Factorization
+6. Grover Algorithm
