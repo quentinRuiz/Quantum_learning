@@ -2,7 +2,7 @@
 Summary:
 
 ## 1. Quantum Query Algorithms
-    1. The query model of computation
+   1. The query model of computation
     2. Deutsch’s Algorithm
     3. The Deutsh’s-Jozsa algorithm
     4. Simon’s Algorihm
