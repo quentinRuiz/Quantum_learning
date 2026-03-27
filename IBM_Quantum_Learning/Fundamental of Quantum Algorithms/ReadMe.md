@@ -9,7 +9,7 @@ Summary:
     5. Implementation on Qiskit
   
 
-2. Quantum Algorithms Foundations
+## 2. Quantum Algorithms Foundations
     1. Two examples: integer factorizations and computing GCDs
     2. Measuring computational cost
     3. Classical computation on quantum computers
