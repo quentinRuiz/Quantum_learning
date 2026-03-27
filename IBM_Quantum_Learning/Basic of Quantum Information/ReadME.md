@@ -1,6 +1,11 @@
 # Basic of Quantum Information
 1. Single systems
-   - Notions : 
+   1. Classical Information
+   2. Quantum Information
+      1. Quantum state vectorr
+      2. Standard basis measurement
+      3. Unitary operations
+   3. Implementation on Qiskit 
 2. Multiples Systems
    1. Classical Information
    2. Probabilistic State
