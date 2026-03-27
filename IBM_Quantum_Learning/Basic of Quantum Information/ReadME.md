@@ -1,4 +1,4 @@
-# Basic of Quantum Information
+# BasicS of Quantum Information
 Summary : 
 
 ## 1. Single systems
