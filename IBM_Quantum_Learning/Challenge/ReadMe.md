@@ -1,8 +1,8 @@
 # Qiskit Challenges
 
 ## 1. 2021
-  Notions : 
+  Notions : Toffoli Gate, Shor's Algorithm
 ## 2. 2023
-  Notions:
+  Notions: Introduction to Dynamic circuits, Quantum Teleportation, Iterative phase estimation
 ## 3. 2024
-  Notions : 
+  Notions : Two qubit Bell State, Qiskit states, VQE, Pauli operator, Trasnpiler optimisation
