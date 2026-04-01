@@ -3,7 +3,7 @@
 This folder contains documents related to the introduction of quantum computing in audio. It includes documentation as well as code for representing audio on a quantum computer. 
 
 Algorithms:
-1. Audio representation:
+1. Quantum Audio representation:
     1. Quantum Probability Amplitude Modulation: QPAM
     2. Single Qubit Probability Amplitude Modulations: SQPAM
 
