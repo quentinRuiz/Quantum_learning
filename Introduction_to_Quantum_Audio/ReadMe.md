@@ -4,5 +4,5 @@ This folder contains documents related to the introduction of quantum computing 
 
 Bibliographie:
 - [Quantum Representations of Sound: from
-mechanical waves to quantum circuits][https://arxiv.org/pdf/2301.01595], Paulo V. Itabora´ı and Eduardo R. Miranda
+mechanical waves to quantum circuits](https://arxiv.org/pdf/2301.01595), Paulo V. Itabora´ı and Eduardo R. Miranda
 
