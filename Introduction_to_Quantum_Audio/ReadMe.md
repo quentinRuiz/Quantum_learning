@@ -4,8 +4,8 @@ This folder contains documents related to the introduction of quantum computing 
 
 Algorithms:
 1. Audio representation:
-  1. Quantum Probability Amplitude Modulation: QPAM
-  2. Single Qubit Probability Amplitude Modulations: SQPAM
+    1. Quantum Probability Amplitude Modulation: QPAM
+    2. Single Qubit Probability Amplitude Modulations: SQPAM
 
 
 Bibliographie:
