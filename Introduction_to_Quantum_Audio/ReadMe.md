@@ -7,6 +7,7 @@ Algorithms:
     1. Quantum Probability Amplitude Modulation: QPAM
     2. Single Qubit Probability Amplitude Modulations: SQPAM
     3. Quantum State Modulation: QSM
+    4. Multichannel Quantum State Modulation: MQSM
 
 
 Bibliographie:
