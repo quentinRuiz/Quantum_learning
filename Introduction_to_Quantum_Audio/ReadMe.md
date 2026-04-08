@@ -13,5 +13,6 @@ Algorithms:
 
 Bibliographie:
 - [Quantum Representations of Sound: from
-mechanical waves to quantum circuits](https://arxiv.org/pdf/2301.01595), Paulo V. Itabora´ı and Eduardo R. Miranda
+mechanical waves to quantum circuits](https://arxiv.org/pdf/2301.01595), Paulo V. Itaboraí and Eduardo R. Miranda
+- [Towards Quantum Computing for Audio and Music Expression](https://pearl.plymouth.ac.uk/sc-theses/43/), Paulo Vitor Itaboraí
 
