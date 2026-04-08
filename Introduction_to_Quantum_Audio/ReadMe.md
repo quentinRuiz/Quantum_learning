@@ -15,4 +15,5 @@ Bibliographie:
 - [Quantum Representations of Sound: from
 mechanical waves to quantum circuits](https://arxiv.org/pdf/2301.01595), Paulo V. Itaboraí and Eduardo R. Miranda
 - [Towards Quantum Computing for Audio and Music Expression](https://pearl.plymouth.ac.uk/sc-theses/43/), Paulo Vitor Itaboraí
+- [QRMA: quantum representation of multichannel audio](https://link.springer.com/article/10.1007/s11128-019-2317-3), Şahin Engin ; Yilmaz İhsan
 
